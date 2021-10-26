@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>chal_dal_buiseness_logic_layer</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\chal-dal-data-context\chal-dal-data-context.csproj" />
+    <ProjectReference Include="..\chal-dal-interface\chal-dal-interface.csproj" />
+  </ItemGroup>
+
+</Project>

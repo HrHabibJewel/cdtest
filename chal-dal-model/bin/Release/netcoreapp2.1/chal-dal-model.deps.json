@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "chal-dal-model/1.0.0": {
+        "runtime": {
+          "chal-dal-model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "chal-dal-model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

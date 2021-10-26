@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAiguetunALE2jWwkGmA/1CwAAAAACAAAAAAAQZgAAAAEAACAAAABbogSN3pw6JYnzkeXmSeivAUCAVh/T3jULURITXdPv5gAAAAAOgAAAAAIAACAAAAAqNq/LFP0Ekc5z3IMchgUMVPGTKA4tlWQWezuLgeuKAIAAAAAGLRaHFIXCiUmiJ+IxKt0rRnZmQNjCYXMjmfH/Wf4YHkNkRp1Z9zURumDlG+Ww7wlzVrHxopJWrbv+TswxA4i4KmDSInV9LVRJoKBQYMysLWyN6WiOc1nTUBTqWOiNMblZg6oaAFlpswz5J330on76nqZWpgSf4UB+VHTlmazc0EAAAAAdgO4QA5/acsvjI5QHiruiCYDtx4G7Vxw+YBBTLQYfjZ54ZHWuc5UP+gZl+CFweQYdGnT1T+mmlaXEM5Z3kAfV</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-dm1-241.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>10/22/2021 12:50:02</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>10/24/2021 22:38:47</publishTime>
+    </File>
+    <File Include="chal-dal-business-logic-layer.dll">
+      <publishTime>10/24/2021 22:48:57</publishTime>
+    </File>
+    <File Include="chal-dal-business-logic-layer.pdb">
+      <publishTime>10/24/2021 22:48:57</publishTime>
+    </File>
+    <File Include="chal-dal-data-context.dll">
+      <publishTime>10/24/2021 22:48:57</publishTime>
+    </File>
+    <File Include="chal-dal-data-context.pdb">
+      <publishTime>10/24/2021 22:48:57</publishTime>
+    </File>
+    <File Include="chal-dal-interface.dll">
+      <publishTime>10/24/2021 22:48:56</publishTime>
+    </File>
+    <File Include="chal-dal-interface.pdb">
+      <publishTime>10/24/2021 22:48:56</publishTime>
+    </File>
+    <File Include="chal-dal-model.dll">
+      <publishTime>10/24/2021 22:48:55</publishTime>
+    </File>
+    <File Include="chal-dal-model.pdb">
+      <publishTime>10/24/2021 22:48:55</publishTime>
+    </File>
+    <File Include="habibur-rahman.deps.json">
+      <publishTime>10/24/2021 22:49:10</publishTime>
+    </File>
+    <File Include="habibur-rahman.dll">
+      <publishTime>10/24/2021 22:48:59</publishTime>
+    </File>
+    <File Include="habibur-rahman.pdb">
+      <publishTime>10/24/2021 22:48:59</publishTime>
+    </File>
+    <File Include="habibur-rahman.runtimeconfig.json">
+      <publishTime>10/24/2021 22:48:59</publishTime>
+    </File>
+    <File Include="Newtonsoft.Json.dll">
+      <publishTime>03/17/2021 20:03:36</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.dll">
+      <publishTime>02/24/2018 16:09:56</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.Swagger.dll">
+      <publishTime>02/24/2018 16:10:00</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerGen.dll">
+      <publishTime>02/24/2018 16:10:02</publishTime>
+    </File>
+    <File Include="Swashbuckle.AspNetCore.SwaggerUI.dll">
+      <publishTime>02/24/2018 16:10:04</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>10/24/2021 22:49:10</publishTime>
+    </File>
+    <File Include="wwwroot/data/10780.json">
+      <publishTime>10/04/2016 09:10:16</publishTime>
+    </File>
+    <File Include="wwwroot/data/13116.json">
+      <publishTime>10/04/2016 09:11:32</publishTime>
+    </File>
+    <File Include="wwwroot/data/14842.json">
+      <publishTime>10/04/2016 09:11:54</publishTime>
+    </File>
+    <File Include="wwwroot/data/17172.json">
+      <publishTime>10/04/2016 09:11:10</publishTime>
+    </File>
+    <File Include="wwwroot/data/2.json">
+      <publishTime>10/04/2016 09:07:28</publishTime>
+    </File>
+    <File Include="wwwroot/data/20566.json">
+      <publishTime>10/04/2016 09:10:26</publishTime>
+    </File>
+    <File Include="wwwroot/data/21632.json">
+      <publishTime>10/04/2016 09:13:20</publishTime>
+    </File>
+    <File Include="wwwroot/data/2627.json">
+      <publishTime>10/04/2016 09:11:22</publishTime>
+    </File>
+    <File Include="wwwroot/data/27366.json">
+      <publishTime>10/04/2016 09:12:16</publishTime>
+    </File>
+    <File Include="wwwroot/data/29127.json">
+      <publishTime>10/04/2016 09:12:42</publishTime>
+    </File>
+    <File Include="wwwroot/data/30024.json">
+      <publishTime>10/04/2016 09:12:54</publishTime>
+    </File>
+    <File Include="wwwroot/data/30332.json">
+      <publishTime>10/04/2016 09:12:04</publishTime>
+    </File>
+    <File Include="wwwroot/data/31870.json">
+      <publishTime>10/04/2016 09:12:34</publishTime>
+    </File>
+    <File Include="wwwroot/data/33550.json">
+      <publishTime>10/04/2016 09:12:24</publishTime>
+    </File>
+    <File Include="wwwroot/data/34407.json">
+      <publishTime>10/04/2016 09:09:36</publishTime>
+    </File>
+    <File Include="wwwroot/data/34429.json">
+      <publishTime>10/04/2016 09:13:52</publishTime>
+    </File>
+    <File Include="wwwroot/data/36495.json">
+      <publishTime>10/04/2016 09:10:34</publishTime>
+    </File>
+    <File Include="wwwroot/data/37327.json">
+      <publishTime>10/04/2016 09:09:52</publishTime>
+    </File>
+    <File Include="wwwroot/data/38639.json">
+      <publishTime>10/04/2016 09:11:42</publishTime>
+    </File>
+    <File Include="wwwroot/data/7.json">
+      <publishTime>10/04/2016 09:13:12</publishTime>
+    </File>
+    <File Include="wwwroot/data/README">
+      <publishTime>08/01/2019 01:03:20</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
